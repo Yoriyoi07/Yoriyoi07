@@ -23,5 +23,5 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Carlo-Villamin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/carlo-villamin)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me!-lightgrey?style=flat-square&logo=gmail)](mailto:giancarlovillamin@gmail.com)
