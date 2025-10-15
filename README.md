@@ -17,8 +17,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Carlo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlo-villamin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlo-villamin&layout=compact&theme=radical)
+![Carlo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=radical)
 
 ---
 
