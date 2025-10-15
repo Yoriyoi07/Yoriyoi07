@@ -2,7 +2,7 @@
 
 🎓 4th Year IT Student | 💻 Aspiring Software Developer  
 🌱 Currently learning **MERN Stack**
-💬 Ask me about **React** or **Node.js**
+
 
 ---
 
