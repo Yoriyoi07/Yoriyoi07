@@ -2,7 +2,7 @@
 
 🎓 4th Year IT Student | 💻 Aspiring Software Developer || Quality Assurance
 
-🌱 Currently learning **MERN Stack**
+🌱 Currently learning **MERN Stack** && **Automation**
 
 
 ---
