@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlo Villamin!
 
-🎓 4th Year IT Student | 💻 Aspiring Software Developer || QA
+🎓 4th Year IT Student | 💻 Aspiring Software Developer || Quality Assurance
 
 🌱 Currently learning **MERN Stack**
 
