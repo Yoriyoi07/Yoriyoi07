@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Carlo Villamin!
 
-🎓 4th Year IT Student | 💻 Aspiring Software Developer || Quality Assurance
-
-🌱 Currently learning **MERN Stack** && **Automation**
-
+🎓 4th Year IT Student
 
 ---
 
@@ -14,12 +11,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Carlo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=radical)
 
 ---
 
