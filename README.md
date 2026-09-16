@@ -9,7 +9,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **4th Year IT Student** specializing in Mobile and Web Applications.
 - 🛡️ Transitioning into **Cybersecurity**, focusing on Blue Teaming, SOC analysis, and IAM via TryHackMe & HackTheBox.
 - ⚙️ Experienced in enterprise IT operations, low-code development (OutSystems), and building automated workflows (Power Automate).
 - 🚀 Expanding my technical infrastructure by building out homelab setups with Docker and Proxmox.
