@@ -2,16 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=4th+Year+IT+Student;Mobile+%26+Web+App+Developer;Cybersecurity+Enthusiast;Automation+%26+Homelab+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=IT+Graduate;Mobile+%26+Web+App+Developer;Cybersecurity+Enthusiast;Automation+Specialist" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🛡️ Transitioning into **Cybersecurity**, focusing on Blue Teaming, SOC analysis, and IAM via TryHackMe & HackTheBox.
-- ⚙️ Experienced in enterprise IT operations, low-code development (OutSystems), and building automated workflows (Power Automate).
-- 🚀 Expanding my technical infrastructure by building out homelab setups with Docker and Proxmox.
+- 🎓 **IT Graduate** specializing in Mobile and Web Applications.
+- 🛡️ Transitioning into **Cybersecurity**, focusing on Blue Teaming, SOC analysis, and IAM.
+- ⚙️ Experienced in enterprise IT operations, low-code development, and building automated workflows.
+- 🚀 Currently planning and designing my first home server deployment to explore virtualization.
 
 ### 🛠️ Skills & Tools
 
@@ -26,11 +27,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![OutSystems](https://img.shields.io/badge/OutSystems-FF0000?style=for-the-badge&logo=outsystems&logoColor=white)
 
 ---
 
@@ -52,15 +48,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="github-stats.svg" alt="GitHub Stats" />
-  <img src="top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🌐 Connect With Me
-<a href="https://linkedin.com/in/carlo-villamin-261060284"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:giancarlovillamin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Yoriyoi07"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-
