@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=IT+Graduate;Mobile+%26+Web+App+Developer;Cybersecurity+Enthusiast;Blue+Team+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=IT+Graduate;Mobile+%26+Web+App+Developer;Cybersecurity+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -74,12 +74,15 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=radical&count_private=true)](https://github.com/Yoriyoi07)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=radical)](https://github.com/Yoriyoi07)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Yoriyoi07&theme=radical)](https://git.io/streak-stats)
+
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 83 |
+| **Current Streak** | 1 day |
+| **Longest Streak** | 3 days |
+| **Member Since** | Oct 1, 2022 |
+
+**📈 View my [GitHub Profile](https://github.com/Yoriyoi07) to see my full contribution history and activity!**
 
 </div>
 
@@ -88,9 +91,11 @@
 ### 📈 Activity & Contributions
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yoriyoi07&theme=radical)
-  
+
+**Explore my repositories and contributions on [GitHub](https://github.com/Yoriyoi07?tab=repositories)**
+
+I'm actively contributing to various projects and continuously expanding my skills across web development, mobile applications, and cybersecurity.
+
 </div>
 
 ---
@@ -98,20 +103,20 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoriyoi07)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yoriyoi07)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### ⭐ If you find my projects helpful, feel free to star them!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Yoriyoi07&color=blue)
-  
+
+### ⭐ If you find my projects helpful, feel free to star them!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yoriyoi07&color=blue)
+
 </div>
