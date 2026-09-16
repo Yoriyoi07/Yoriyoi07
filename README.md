@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <img src="github-stats.svg" alt="GitHub Stats" />
+  <img src="top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
