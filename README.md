@@ -71,31 +71,10 @@
 
 ---
 
-### 📊 GitHub Statistics
-
+### 📊 GitHub Stats
 <div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Total Contributions** | 83 |
-| **Current Streak** | 1 day |
-| **Longest Streak** | 3 days |
-| **Member Since** | Oct 1, 2022 |
-
-**📈 View my [GitHub Profile](https://github.com/Yoriyoi07) to see my full contribution history and activity!**
-
-</div>
-
----
-
-### 📈 Activity & Contributions
-
-<div align="center">
-
-**Explore my repositories and contributions on [GitHub](https://github.com/Yoriyoi07?tab=repositories)**
-
-I'm actively contributing to various projects and continuously expanding my skills across web development, mobile applications, and cybersecurity.
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoriyoi07&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoriyoi07&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ---
