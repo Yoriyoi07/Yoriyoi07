@@ -48,8 +48,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="github-stats.svg" alt="GitHub Stats" />
-  <img src="top-langs.svg" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
